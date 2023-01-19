@@ -1,0 +1,50 @@
+[
+  {
+    "ts_code": "000001.SZ",
+    "symbol": "000001",
+    "name": "平安银行",
+    "area": "深圳",
+    "industry": "银行",
+    "list_date": "19910403"
+  },
+  {
+    "ts_code": "000002.SZ",
+    "symbol": "000002",
+    "name": "万科A",
+    "area": "深圳",
+    "industry": "全国地产",
+    "list_date": "19910129"
+  },
+  {
+    "ts_code": "000004.SZ",
+    "symbol": "000004",
+    "name": "ST国华",
+    "area": "深圳",
+    "industry": "软件服务",
+    "list_date": "19910114"
+  },
+  {
+    "ts_code": "000005.SZ",
+    "symbol": "000005",
+    "name": "ST星源",
+    "area": "深圳",
+    "industry": "环境保护",
+    "list_date": "19901210"
+  },
+  {
+    "ts_code": "000006.SZ",
+    "symbol": "000006",
+    "name": "深振业A",
+    "area": "深圳",
+    "industry": "区域地产",
+    "list_date": "19920427"
+  },
+  {
+    "ts_code": "000007.SZ",
+    "symbol": "000007",
+    "name": "全新好",
+    "area": "深圳",
+    "industry": "其他商业",
+    "list_date": "19920413"
+  }
+]
